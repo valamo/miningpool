@@ -40,3 +40,10 @@ Please contact: peterstone324@gmail.com
 扫码加微信, 详细只需, 请注明 矿池 两个字
 
 ![微信](https://user-images.githubusercontent.com/84726622/122638548-41a20900-d127-11eb-85a1-a989ea3a43c4.png)
+
+
+
+## 系统快照
+
+![image](https://user-images.githubusercontent.com/84726622/124718480-b8693f80-df38-11eb-8446-aa665445952f.png)
+
