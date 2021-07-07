@@ -12,8 +12,6 @@ Java, Sprintboot, nodejs, PHP, vue.js, react
 
 类似cobo代替品解决方案
 
-
-
 filecoin 矿机管理系统 矿机解决方案 矿机管理平台 矿池管理系统 矿池管理平台 矿池解决方案
 
 
@@ -22,6 +20,10 @@ filecoin 矿机管理系统 矿机解决方案 矿机管理平台 矿池管理�
 
 为个人矿工或企业矿工提供一站式挖矿软硬件解决方案。技术架构上，充分吸收互联网大规模分布式存储集群架构经验，结合区块链去中心化/P2P 特点，设计出当前最有技术优势的分层多模块平台软件体系，能够最大程度地提升挖矿效率和成本竞争力，并且架构上的弹性伸缩能力可以轻松应对规模的持续扩大。
 
+类似cobo代替品解决方案
+类似cobo代替品解决方案
+
+English
 
 coin-pool
 coins mining machine management system mining machine solutions mining machine management platform mining pool management system mining pool management platform mining pool solutions
@@ -50,5 +52,19 @@ Please contact: peterstone324@gmail.com
 ![image](https://user-images.githubusercontent.com/84726622/124718566-cdde6980-df38-11eb-87ea-4a8cc2439ec3.png)
 
 ![image](https://user-images.githubusercontent.com/84726622/124718607-d5057780-df38-11eb-9394-e8406faf12a3.png)
+
+![image](https://user-images.githubusercontent.com/84726622/124718700-f2d2dc80-df38-11eb-8938-2fd034ce3d8a.png)
+![image](https://user-images.githubusercontent.com/84726622/124718811-11d16e80-df39-11eb-8769-7cb1c0378c89.png)
+![image](https://user-images.githubusercontent.com/84726622/124718831-172eb900-df39-11eb-9dd5-f113995c31a4.png)
+
+
+
+## 支持丰富币种
+
+![image](https://user-images.githubusercontent.com/84726622/124719001-43e2d080-df39-11eb-8b04-803c139a544f.png)
+
+
+## 多语义定制 
+中午, 英文, 俄语, 西班牙, 葡萄牙, 阿拉伯等多语种.
 
 
