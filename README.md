@@ -42,7 +42,7 @@ Please contact: peterstone324@gmail.com
 
 扫码加微信, 详细只需, 请注明 矿池 两个字
 
-![微信](https://user-images.githubusercontent.com/84726622/122638548-41a20900-d127-11eb-85a1-a989ea3a43c4.png)
+微信先撤了, 邮箱联系!
 
 
 
