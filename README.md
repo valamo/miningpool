@@ -2,6 +2,17 @@
 
 
 
+## 号外号外
+
+算力系统前后卖了十几份, 赚得还行, 现在不怎么维护, 新卖家要求有一定开发水平再来接盘, 小白就不要来找我了, 很多词汇解释费劲..
+
+不妨看看我新开拓的新业务, 看懂得来聊, 纯介绍的也有丰富茶水费, 写邮件记得备注"基金OTC" (peterstone324@gmail.com)
+
+<img width="742" alt="image" src="https://github.com/user-attachments/assets/66788a44-54ca-4924-bba3-2677659fc994" />
+
+
+## 简介
+
 区块链矿场矿池虚拟货币矿机购买租赁,算力分配系统开发定制(类 比特小鹿, 算力巢)源码
 
 Go 源码, 比特币扫码支付, 区块链自动发卡系统, 比特币发卡系统, 以太坊发卡系统. 
@@ -68,6 +79,9 @@ https://user-images.githubusercontent.com/84726622/128832214-a00d3c8a-047e-4f34-
 ## 支持丰富币种
 
 ![image](https://user-images.githubusercontent.com/84726622/124719001-43e2d080-df39-11eb-8b04-803c139a544f.png)
+
+
+
 
 
 ## 多语义定制 
